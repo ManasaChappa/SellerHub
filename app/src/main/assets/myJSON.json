@@ -1,0 +1,39 @@
+{
+  "channels_per_user": [
+    {
+      "user_id": 1,
+      "channels": [
+        {
+          "id": "1",
+          "name": "Amazon"
+        },
+        {
+          "id": "2",
+          "name": "Walmart"
+        },
+        {
+          "id": "3",
+          "name": "Ebay"
+        },
+        {
+          "id": "4",
+          "name": "Flipkart"
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "channels_Info": [
+        {
+          "id": "1",
+          "name": "Amazon"
+        },
+        {
+          "id": "2",
+          "name": "Walmart"
+        }
+      ]
+
+    }
+  ]
+}

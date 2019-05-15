@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mail"
+        android:title="Contact Support"
+        android:icon="@drawable/mail"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/call"
+        android:title="Call Us"
+        android:icon="@drawable/call"
+        app:showAsAction="never"></item>
+
+
+    <item android:id="@+id/addProduct"
+        android:title="Add Product"
+        android:icon="@drawable/add_product"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/myChannels"
+        android:title="View My Channels"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/maps"
+        android:title="My Location"
+        android:icon="@drawable/my_location"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        app:showAsAction="always"></item>
+
+
+</menu>
